@@ -1,0 +1,12 @@
+{
+  "name": "ANbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "andi.js",
+  "scripts": {
+  "start": "andi.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
